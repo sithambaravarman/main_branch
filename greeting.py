@@ -3,5 +3,6 @@ def greeting():
 
 
 print(greeting())
+print(greeting())
 
 
